@@ -1,4 +1,4 @@
 # Demo
 Demo Git Repository
 <br>
-Author- Sarvagya
+Author- Sarvagya Kumar
